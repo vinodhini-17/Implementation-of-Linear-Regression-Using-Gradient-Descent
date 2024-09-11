@@ -14,7 +14,7 @@ To write a program to predict the profit of a city using the linear regression m
 4.To predict data values, scale a new data and predict.
 5.Print the prediction.
 
-## Program:
+## Program & output:
 ```
 /*
 Program to implement the linear regression using gradient descent.
@@ -73,8 +73,6 @@ plt.plot(range(0,epochs),error)
 
 ![image](https://github.com/user-attachments/assets/67ccf769-65a7-4a12-88fe-1487f3595314)
 
-## Output:
-![linear regression using gradient descent](sam.png)
 
 
 ## Result:
